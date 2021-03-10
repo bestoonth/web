@@ -1,2 +1,2 @@
 # web
-This repository is dedicated for tests on our CRiSP web page
+We use this shared repo to temporarily hold some basic test web pages. We will use our own internal git and web servers for the actual web project files
